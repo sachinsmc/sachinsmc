@@ -1,6 +1,6 @@
-### Hey there 👋
+### Hey there, I am [Sachin](https://sachinsmc.me) 👋
 
-## I am [Sachin](https://sachinsmc.me), *Software Engineer* Working in Dubai 🇦🇪.
+## *Software Engineer* Working in Dubai 🇦🇪.
 
 # I always like to learn new things and improve myself.
 
