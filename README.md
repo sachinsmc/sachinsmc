@@ -1,5 +1,12 @@
-### Hi there 👋
+### Hey there 👋
 
+## I am Sachin, Software Engineer Working in Dubai 🇦🇪.
+
+# I always like to learn new things and improve myself.
+
+👨🏽‍💻 I’m currently working on something cool 😉;
+
+http://sachinsmc.me/
 <!--
 **sachinsmc/sachinsmc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
