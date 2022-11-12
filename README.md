@@ -6,4 +6,3 @@
 👨🏽‍💻 I’m currently working on something cool 😉 
 
   
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=sachinsmc)
