@@ -9,7 +9,9 @@
 
 Portfolio: [portfolio.sachinsmc.me](http://portfolio.sachinsmc.me) 
 
-Pet Projects:
+
+
+## Pet Projects:
 - Game (Multiplayer Wordle) : https://wordleparty.social/
 - VSCode Extensions: 
    - Turbo FMT Println https://marketplace.visualstudio.com/items?itemName=sachinsmc.turbo-fmt-println
