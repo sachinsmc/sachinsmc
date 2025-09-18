@@ -7,6 +7,13 @@
 ## I always like to learn new things and improve myself. 
 👨🏽‍💻 I’m currently working on something cool 😉 
 
-Portfolio: [portfolio.sachinsmc.me](http://portfolio.sachinsmc.me)
+Portfolio: [portfolio.sachinsmc.me](http://portfolio.sachinsmc.me) 
+
+Pet Projects:
+- Game (Multiplayer Wordle) : https://wordleparty.social/
+- VSCode Extensions: 
+   - Turbo FMT Println https://marketplace.visualstudio.com/items?itemName=sachinsmc.turbo-fmt-println
+   - Turbo Rust Println https://marketplace.visualstudio.com/items?itemName=sachinsmc.turbo-rust-println
+- Newsletter: https://top5hn.substack.com/
 
   
