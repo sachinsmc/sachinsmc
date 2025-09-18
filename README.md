@@ -18,6 +18,7 @@ Portfolio: [portfolio.sachinsmc.me](http://portfolio.sachinsmc.me)
    - Turbo Rust Println: https://marketplace.visualstudio.com/items?itemName=sachinsmc.turbo-rust-println
 - Newsletter: https://top5hn.substack.com/
 - GitGrab (Download a folder from git): https://github.com/sachinsmc/gitgrab 
+- HN Dusk (Dark Mode for HN): https://github.com/sachinsmc/hn-dusk
 - UAE Vaccine Tracker (Not Active): https://github.com/sachinsmc/uae-vaccine-tracker
 
   
