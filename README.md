@@ -12,11 +12,11 @@ Portfolio: [portfolio.sachinsmc.me](http://portfolio.sachinsmc.me)
 
 
 ## Pet Projects:
-- Game (Multiplayer Wordle) : https://wordleparty.social/
+- Game (Multiplayer Wordle): https://wordleparty.social/
 - VSCode Extensions: 
-   - Turbo FMT Println https://marketplace.visualstudio.com/items?itemName=sachinsmc.turbo-fmt-println
-   - Turbo Rust Println https://marketplace.visualstudio.com/items?itemName=sachinsmc.turbo-rust-println
+   - Turbo FMT Println: https://marketplace.visualstudio.com/items?itemName=sachinsmc.turbo-fmt-println
+   - Turbo Rust Println: https://marketplace.visualstudio.com/items?itemName=sachinsmc.turbo-rust-println
 - Newsletter: https://top5hn.substack.com/
-- UAE Vaccine Tracker (Not Active) : https://github.com/sachinsmc/uae-vaccine-tracker
+- UAE Vaccine Tracker (Not Active): https://github.com/sachinsmc/uae-vaccine-tracker
 
   
