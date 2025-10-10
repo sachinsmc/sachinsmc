@@ -16,6 +16,7 @@ Portfolio: [portfolio.sachinsmc.me](http://portfolio.sachinsmc.me)
 - VSCode Extensions: 
    - Turbo FMT Println: https://marketplace.visualstudio.com/items?itemName=sachinsmc.turbo-fmt-println
    - Turbo Rust Println: https://marketplace.visualstudio.com/items?itemName=sachinsmc.turbo-rust-println
+   - Extensions Pack: https://marketplace.visualstudio.com/items?itemName=sachinsmc.full-stack-dev
 - Newsletter: https://top5hn.substack.com/
 - GitGrab (Download a folder from git): https://github.com/sachinsmc/gitgrab 
 - HN Dusk (Dark Mode for HN): https://github.com/sachinsmc/hn-dusk
