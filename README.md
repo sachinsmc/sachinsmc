@@ -1,6 +1,6 @@
 ### Hey there, I am [Sachin](https://sachinsmc.me) 👋
 
-## *Software Engineer* Working at [ReasonLabs](https://reasonlabs.com/) in Dubai 🇦🇪 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="60"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/>
+<h2><em>Software Engineer</em> Working at <a href="https://reasonlabs.com/">ReasonLabs</a> in Dubai 🇦🇪 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" height="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" height="30"/></h2>
 
 `$ npx sachinsmc`
 
