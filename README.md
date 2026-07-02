@@ -14,7 +14,7 @@
 
 
 ## Pet Projects:
-- Game (Multiplayer Wordle): https://wordleparty.social/
+- Game (Multiplayer Wordle): [https://wordleparty.social/](https://studio--wordle-party-g1ulk.us-central1.hosted.app/)
 - VSCode Extensions: 
    - Turbo FMT Println: https://marketplace.visualstudio.com/items?itemName=sachinsmc.turbo-fmt-println
    - Turbo Rust Println: https://marketplace.visualstudio.com/items?itemName=sachinsmc.turbo-rust-println
